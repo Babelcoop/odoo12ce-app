@@ -1,0 +1,26 @@
+{
+  "id": "com.odoo-ce.community.cloudronapp",
+  "title": "Odoo Community",
+  "author": "Odoo",
+  "description": "file://DESCRIPTION.md",
+  "changelog": "file://CHANGELOG",
+  "postInstallMessage": "file://POSTINSTALL.md",
+  "tagline": "One-line description",
+  "version": "0.1.0",
+  "healthCheckPath": "/",
+  "httpPort": 8069,
+  "addons": {
+    "localstorage": {},
+    "sendmail": {},
+    "ldap" : {},
+    "postgresql": {}
+  },
+  "manifestVersion": 2,
+  "website": "https://odoo.com",
+  "contactEmail": "support@cloudron.io",
+  "icon": "file://logo.png",
+  "tags": [
+    "crm"
+  ],
+  "mediaLinks": [ ]
+}
