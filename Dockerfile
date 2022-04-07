@@ -1,5 +1,5 @@
 FROM cloudron/base:0.12.0
-MAINTAINER Samir Saidani <saidani@babel.coop>
+MAINTAINER Samir Saidani <samir.saidani@babel.coop>
 
 RUN mkdir -p /app/code /app/data
 WORKDIR /app/code

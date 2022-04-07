@@ -5,7 +5,7 @@
   "description": "file://DESCRIPTION.md",
   "changelog": "file://CHANGELOG",
   "postInstallMessage": "file://POSTINSTALL.md",
-  "tagline": "One-line description",
+  "tagline": "Manage your organization",
   "version": "0.1.0",
   "healthCheckPath": "/",
   "httpPort": 8069,
@@ -17,7 +17,7 @@
   },
   "manifestVersion": 2,
   "website": "https://odoo.com",
-  "contactEmail": "support@cloudron.io",
+  "contactEmail": "",
   "icon": "file://logo.png",
   "tags": [
     "crm"
