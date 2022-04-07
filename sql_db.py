@@ -12,7 +12,7 @@ from contextlib import contextmanager
 from functools import wraps
 import logging
 import time
-import urlparse
+import urllib.parse
 import uuid
 
 import psycopg2
