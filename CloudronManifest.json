@@ -1,12 +1,12 @@
 {
   "id": "com.odoo12ce.community.cloudronapp",
-  "title": "Odoo Community",
+  "title": "Odoo Community V12",
   "author": "Odoo",
   "description": "file://DESCRIPTION.md",
   "changelog": "file://CHANGELOG",
   "postInstallMessage": "file://POSTINSTALL.md",
   "tagline": "Manage your organization",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "healthCheckPath": "/",
   "httpPort": 8069,
   "addons": {
@@ -17,7 +17,7 @@
   },
   "manifestVersion": 2,
   "website": "https://odoo.com",
-  "contactEmail": "",
+  "contactEmail": "samir.saidani@babel.coop",
   "icon": "file://logo.png",
   "tags": [
     "crm"
